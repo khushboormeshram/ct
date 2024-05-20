@@ -58,7 +58,10 @@
     position: relative;
 }
 
-.khush{
+img .khush{
+	border-radius : 50%;
+}
+img {
 	border-radius : 50%;
 }
 
